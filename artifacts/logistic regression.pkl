@@ -1,0 +1,2 @@
+with open(r'artifacts/regression_model.pkl','wb') as f:
+    pickle.dump(log_reg_model, f)

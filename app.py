@@ -1,10 +1,10 @@
-from flask import Flask, render_template,jsonify,request
+from flask import Flask,render_template,jsonify,request
 from utils import Diabetese_Prediction
 import pickle
 import traceback
 import config1
 import utils
-import Flask 
+
 
 
 
